@@ -1,3 +1,5 @@
+## Solution is in solution.js
+
 # Technical Assignment
 Assignment to test fundamental knowledge for Prism Force. This can be written in any language or framework.
 
